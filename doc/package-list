@@ -1,0 +1,11 @@
+pl.michal.debski.itsmeim
+pl.michal.debski.itsmeim.common
+pl.michal.debski.itsmeim.common.events
+pl.michal.debski.itsmeim.controller
+pl.michal.debski.itsmeim.model
+pl.michal.debski.itsmeim.model.conversationprotocol.words
+pl.michal.debski.itsmeim.model.event
+pl.michal.debski.itsmeim.model.exceptions
+pl.michal.debski.itsmeim.model.multicastprotocol
+pl.michal.debski.itsmeim.view
+pl.michal.debski.itsmeim.view.exceptions
